@@ -1,6 +1,6 @@
-# mediwise: smart medicine safety and alternative suggestion platform
+# Mediwise: smart medicine safety and alternative suggestion platform
 
-mediwise is an intelligent healthcare assistant designed to provide users with reliable information about their medicines. by simply entering the medicines they have or plan to take, mediwise can:
+Mediwise is an intelligent healthcare assistant designed to provide users with reliable information about their medicines. by simply entering the medicines they have or plan to take, mediwise can:
 
 - detect potential drug interactions
 - check for safety concerns
@@ -27,6 +27,3 @@ this platform is especially relevant in regions where self-medication and uninfo
 - **user-friendly api**  
   designed for easy integration with frontend apps or third-party healthcare platforms.
 
----
-   git clone https://github.com/your-username/mediwise.git
-   cd mediwise
